@@ -1,0 +1,11 @@
+{
+  "gnss": {
+    "gnss_topic": "/gnss",
+    "min_baseline": 10.0,
+    "prior_inf_scale": [
+      1e3,
+      1e3,
+      0.0
+    ]
+  }
+}
